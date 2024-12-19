@@ -20,7 +20,7 @@
 
 ### Demo links
 
-- [Demo](https://AndriiZakharenko.github.io/center_spider/)
+- [Demo](https://AndriiZakharenko.github.io/center-spider/)
 
 ### Reference Image
 
