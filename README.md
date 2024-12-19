@@ -1,10 +1,27 @@
-### Task: Center the spider
+# Center the spider
 
-![Preview](./src/images/preview.png)
+### Description
 
-Task: Center the spider using only JavaScript. Yes, it task can be easily done with pure CSS, but not now. Do it with JS.
+- Center the spider using only JavaScript
 
+### Stack
 
-## Demo Links
+- HTML (BEM)
+- CSS
+- JS
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_center_spider_DOM/)
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/center_spider/)
+
+### Reference Image
+
+<img src="./src/images/preview.png" alt="reference image" width="300px" />
