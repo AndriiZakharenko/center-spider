@@ -2,7 +2,7 @@
 
 ### Description
 
-- Center the spider using only JavaScript
+- Centered the spider using only JavaScript
 
 ### Stack
 
